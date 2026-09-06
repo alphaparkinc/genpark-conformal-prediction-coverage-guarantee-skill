@@ -1,0 +1,15 @@
+{
+  "name": "genpark-conformal-prediction-coverage-guarantee-skill",
+  "version": "1.0.0",
+  "description": "Distribution-free conformal prediction sets with rigorous marginal coverage guarantees, calibrated non-conformity scores, and split conformal inference.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "conformal-prediction",
+    "coverage-guarantee",
+    "quantile-calibration",
+    "risk-control",
+    "agentic-ai"
+  ]
+}
